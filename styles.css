@@ -27,18 +27,18 @@
 
 @keyframes glowing {
 	0% {
-		background-color: #ff4d00;
-		box-shadow: 0 0 5px #ff4d00;
+		background-color: #ffaf7a;
+		box-shadow: 0 0 5px #ff9d5c;
 	}
 
 	50% {
-		background-color: #ff5e1a;
-		box-shadow: 0 0 20px #ff5e1a;
+		background-color: #ff8b3d;
+		box-shadow: 0 0 20px #ff781f;
 	}
 
 	100% {
-		background-color: #ff4000;
-		box-shadow: 0 0 5px #ff4000;
+		background-color: #ff6600;
+		box-shadow: 0 0 5px #ff6600;
 	}
 }
 
@@ -114,13 +114,13 @@
 .box1 {
 	color: #FF8C3d;
 	font-size: 28px;
-	padding: 25px 0 10px 0;
+	padding: 25px 0 0px 0;
 }
 
 .num1 {
 	color: #ff8c3d;
 	font-size: 28px;
-	padding-bottom: 60px;
+	padding-bottom: 90px;
 }
 
 .config {
